@@ -7,21 +7,36 @@ heroes with talent points earned with each level.
 
 Heroes: 
 HP – Attack Range – Special Ability
-*	Warrior/Knight
+Talents
+*	Warrior/Knight - Unlocked by default
 	- 150 - Small - Whirlwind
-	- Increase Whirlwind crit chance
+	- Increase Special Attack Damage
 	- Shield throw
-	
-*	Magician/Wizard
+	- Last Stand
+*	Magician/Wizard - Unlocked by completing beginner difficulty
 	- 100 - Medium - Blizzard
+	- Increase Special Attack Damage
+	- Add Slow effect to Special Attack
+	- Freeze enemies in an area
 *	Necromancer
 	- 100 - Medium - Raise Dead
+	- Buff Raised Allies
+	-
+	-
 *	Archer/Bard
 	- 125 - High - Volley
+	- Increase Special Attack Damage
+	- 
 *	Paladin
 	- 150 - Small - Consecration
+	- Increase Special Attack Damage
+	- Bubble at <25% HP
+	- Avenger's Shield
 *	Thief/Ninja
 	- 100 - Small - Pickpocket
+	- Increases pickpocketed gold
+	- Smokescreen 
+	- Weapon Poison
 
 Towers: 
 Attack Range – Attack Speed – Elemental Properties – Armor Penetration
@@ -41,15 +56,25 @@ Attack Range – Attack Speed – Elemental Properties – Armor Penetration
 Enemies: 
 HP – Movement Speed – Armor – Elemental Resistance 
 *	Goblins
+	- 50 - Average - None - None
 *	Orcs
+	- 150 - Slow - Light - None
 *	Zombies
+	- 100 - Slow - Light - Magic
 *	Wyverns
+	- 100 - Fast - None - Magic
 *	Ogres
+	- 200 - Slow - Medium - None
 *	Ghost Wolves
+	- 150 - Fast - None - Magic
 *	Black Knights
+	- 200 - Average - Heavy - None
 *	Imps
+	- 150 - Fast - None - Magic
 *	Revenants
+	- 250 - Slow - Light - Magic
 *	Dark Mages
+	- 200 - Average - None - Magic
 *	Ghouls
 *	Harpies
 *	Demonic Warriors
@@ -68,7 +93,7 @@ HP – Movement Speed – Armor – Elemental Resistance – Special Abilities �
 *	Four Horsemen - W30
 	- 1500 each - Medium - Yes - Magic - ?? - ??
 *	Drunken Dwarf - W40
-	- 3500 - Slow - Yes - Holy - Keg Smash
+	- 3500 - Slow - Yes - Holy - Keg Smash (makes effected allies refrain from attacking and wander around)
 *	Satanic Demon - W50
   	- 5000 - Slow - Yes - Magic - Demonic Alliance (forces allies in range to attack other allies for a short period)
 
