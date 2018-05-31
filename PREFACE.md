@@ -9,6 +9,9 @@ Heroes:
 HP – Attack Range – Special Ability
 *	Warrior/Knight
 	- 150 - Small - Whirlwind
+	- Increase Whirlwind crit chance
+	- Shield throw
+	
 *	Magician/Wizard
 	- 100 - Medium - Blizzard
 *	Necromancer
