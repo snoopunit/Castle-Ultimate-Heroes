@@ -67,7 +67,7 @@ HP – Movement Speed – Armor – Elemental Resistance – Special Abilities �
 *	Drunken Dwarf - W40
 	- 3500 - Slow - Yes - Holy - Keg Smash
 *	Satanic Demon - W50
-  - 5000 - Slow - Yes - Magic - Demonic Alliance (forces allies in range to attack other allies for a short period)
+  	- 5000 - Slow - Yes - Magic - Demonic Alliance (forces allies in range to attack other allies for a short period)
 
 Difficulties:
 *	Beginner – Weak enemies / low numbers / free starting tower / Max Wave: 10
